@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AdvancedSteamSessions-0016.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UNREAL\UE_4.27\UnrealEngine-4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Program_Files\Unreal MutiPlayer FPS Teach Project\MultiFPSTeach\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"D:\Program_Files\Unreal MutiPlayer FPS Teach Project\MultiFPSTeach\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
+"C:\UNREAL\UE_4.27\UnrealEngine-4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"D:\Program_Files\Unreal MutiPlayer FPS Teach Project\MultiFPSTeach\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions-0016.lib"
