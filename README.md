@@ -1,4 +1,6 @@
-# LANFPSGame
+# LAN FPS Game
+
+## Introduce
 
 相比 [LANTPSGame](https://github.com/zong4/LANTPSGame)主要优化了两个方面。
 
